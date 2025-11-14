@@ -2,7 +2,8 @@
 ShreGuard is an advanced Women Safety Android application developed using **Java** and **Kotlin**.   The app is designed to support women during unsafe situations by offering quick emergency assistance, real-time location sharing, and instant communication with guardians and nearby authorities.
 
 <p align="center">
-  <img src="A_logo_for_ShreGuard.png" alt="ShreGuard Logo" width="180">
+  <img src="A_logo_for_ShreGuard.pn<img width="1024" height="1024" alt="women" src="https://github.com/user-attachments/assets/54e591ae-f49a-48c3-ad36-7e4c0158f644" />
+g" alt="ShreGuard Logo" width="180">
 </p>
 
 <h1 align="center">ShreGuard – Women Safety Android App (Java + Kotlin)</h1>
